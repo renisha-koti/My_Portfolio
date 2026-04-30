@@ -1,0 +1,58 @@
+Renisha Koti  
+Linked In: www.linkedin.com/in/ renisha -koti                  Email:  kotirenisha @gmail.com  
+GitHub:   https://github.com/ renisha -koti                             Mobile:  +91 9248555505  
+PROFESSIONAL SUMMARY  
+Results Oriented Full Stack developer and Googl e student Ambassador with 8. 5 CGP A in B.Tech (IT) . Proficient in 
+building scalable web applications using React , No de and F astAPI , with strong foundation in SQL and M ongoDB.  
+Expert in C, C++, Python, Java and hands on experience  in React and Django frameworks. Demonstrated strong 
+exper tise in building and integrating AI syst ems including a Full stack real estate land chat . Actively seeking to apply 
+full stack capabilities to build  robust and dynamic product s.  
+SKILLS  
+Languages : C, C++, Python, Java, JavaScript  
+Core CS : Data Structures & Algorithms, Object -Oriented Programming (OOP), DBMS, Operating Systems  
+Frameworks:  HTML, CSS, React .js, Node. js, FastAPI, Djan go,   
+Databases : MySQL, MongoDB  
+Tools/Platforms : Git, GitHub, VS Code , Vercel, Rend er 
+Soft  Skills : Problem -Solving,  Team  Player,  Critical Thinking , Consiste ncy 
+PROJECTS  
+Land Real Esta te Chat bot |  GitHub                                                                                                                             Mar’ 26 
+• Engineered a full -stack eCommerce -style  property marketplace featuring an AI -driven chatbot 
+powered by  Gemini Pro , handling over 500+  natural language queries for property discovery.  
+• Built a scalable backend with Node.js and Express, using MongoDB for structured data storage, real -
+time listing management, and secure JWT -based authentication.  
+• Designed a responsive chat interface with React.js and Tailwind CSS, integrating AI -driven 
+recommendations to enhance user engagement and property discovery.  
+Tech:  React.js, Node. js, Express.js, MongoD B, Tailwind CSS, JavaScript, Goog le Gemini AI (LLM ) 
+ 
+BYOD – Bring Your O wn Device  & classroom management  |  GitHub                                                              Oct’ 25 
+• Architected a secure web -based system for real -time monitoring of 100+  concurrent devices, 
+achieving low latency  dashboard updates for classroom administration.  
+• Built centralized dashboards with activity tracking and flexible security policy management for 
+teachers.  
+• Designed responsive UI screens using Tailwind CSS and JavaScript, improving classroom device 
+oversight by 75% .  
+Tech:  HTML, Tailwin d CSS, JavaScript, PHP, MongoDB  
+ 
+CERTIFICATES   
+• Design & Implementation of Human -Computer Interfaces  | NPTEL                                                                 Nov’ 25 
+• Privacy and Security in Online Social Media  | NPTEL                                                                                          Nov’ 25 
+• AI Fundamentals  | IBM                                                                                                                                                Sep’ 25 
+• Java Programming  | NPTEL                                                                                                                                        May’ 25 
+• Computer Science Course CSX0001  | Stanford Online                                                                                         May’ 24 
+ 
+ACHIEVEMENTS    
+• Google Student Ambassador ( Gemini)                                                                                                       Aug’ 25 - Present  
+Selected as one of the few student ambassadors to lead AI initiatives and promote Gemini LLM  
+integration within the university tech community.  
+• IBM SkillsBuild Verified Credential: AI Fundamentals                                                                                            Sep’ 25 
+Awarded a verified competency credential for mastering core Artificial Intelligence concepts, including 
+machine learning workflows and ethical AI implementation.                                           
+ 
+EDUCATION  
+Seshadri Rao Gudlavalleru Engineering Colleg e                                                          Gudlavalleru , Andhra Pradesh  
+Bachelor  of Technology , Computer  Science  and Engineering;  CGPA:  8.5                                                         Sep’ 23 – Present  
+Sri Chaitanya Junior Colle0ge                                                                                                       Palakol , Andhra Pradesh  
+Intermediate , MPC;  Percentage:  92                                                                                                                   Aug’ 21 – May’  23 
+Sri Chaitanya School                                                                                                                      Narsapur , Andhra Pradesh  
+SSC (10th Standard) , Percentage:  99                                                                                                                     Aug’ 20 – Jun’ 21 
+
