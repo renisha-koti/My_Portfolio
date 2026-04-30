@@ -6,7 +6,7 @@
   "homepage": "https://renisha-koti.github.io/My_Portfolio",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && npx shx cp dist/index.html dist/404.html",
+    "build": "vite build && npx -y shx cp dist/index.html dist/404.html",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
